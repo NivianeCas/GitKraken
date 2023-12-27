@@ -1,3 +1,3 @@
 # GitKraken
 # Demonstração da ferramenta 
-Niviane Alves
+Por Niviane Alves
